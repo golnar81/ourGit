@@ -1,7 +1,7 @@
-Hello girl !!!!!
+﻿Hello girl !!!!!
 
 Une première ligne de texte qui ne sert à rien.
 
-Une autre ligne de texte qui ne sert à rien
+On va tenter de merger ceci et on verra bien . 
 
 Une dernière ligne de texte qui ne sert à rien.

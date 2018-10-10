@@ -2,6 +2,7 @@
 
 Une première ligne de texte qui ne sert à rien.
 
+I AM DEAD TIRED X-(
 On va tenter de merger ceci et on verra bien . 
 
 Une dernière ligne de texte qui ne sert à rien.
